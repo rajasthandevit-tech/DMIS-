@@ -1,0 +1,6 @@
+{
+  "name": "DMIS 2.0 - Rajasthan Disaster Management Information System",
+  "description": "Unified, workflow-driven and GIS-enabled disaster management platform for Government of Rajasthan (DMRD) covering Agriculture Input Subsidy, Cattle Camps, Emergency Procurement, Inventory, Rescue Identification, HRM, Mock Drills, Fund Management and IFMS integration.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
